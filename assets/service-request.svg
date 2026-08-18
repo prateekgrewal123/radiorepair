@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<defs><linearGradient id="s" x1="0" x2="1"><stop stop-color="#eaf4ff"/><stop offset="1" stop-color="#f8fbff"/></linearGradient></defs>
+<rect width="900" height="600" rx="40" fill="url(#s)"/>
+<circle cx="450" cy="270" r="150" fill="#d9ebff"/>
+<path d="M355 300 L430 225 L520 315 L595 240" fill="none" stroke="#2778d8" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="355" cy="300" r="25" fill="#2778d8"/><circle cx="430" cy="225" r="25" fill="#2778d8"/><circle cx="520" cy="315" r="25" fill="#2778d8"/><circle cx="595" cy="240" r="25" fill="#2778d8"/>
+<text x="450" y="495" text-anchor="middle" font-family="Arial" font-size="34" font-weight="800" fill="#132536">SERVICE REQUEST</text>
+</svg>
